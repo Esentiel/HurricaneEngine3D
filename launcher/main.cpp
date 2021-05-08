@@ -55,7 +55,7 @@ std::filesystem::path get_root_path(){
 }
 
 int main(int argc, const char** argv) {
-	std::filesystem::path root_path = get_root_path();
+	std::filesystem::path root_path = std::filesystem::path("/home/ami/Code/HurricaneEngine3D");
 
 	
 	Engine testEngine;

@@ -7,6 +7,6 @@ if (WIN32)
     set(EXECUTABLE_OUTPUT_PATH "${CMAKE_BINARY_DIR}")
 endif()
 
-add_subdirectory (physics)
+#add_subdirectory (physics)
 add_subdirectory (renderer)
 add_subdirectory (launcher)

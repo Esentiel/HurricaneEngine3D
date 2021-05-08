@@ -1,0 +1,142 @@
+[
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanBackend.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanBackend.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanBackend.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanShaderManager.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanShaderManager.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanShaderManager.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanMemoryManager.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanMemoryManager.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanMemoryManager.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanSurface.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanSurface.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanSurface.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanMesh.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanMesh.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanMesh.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanCommandQueueDispatcher.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanCommandQueueDispatcher.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanCommandQueueDispatcher.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanSwapChain.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanSwapChain.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanSwapChain.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanPipelineCollection.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanPipelineCollection.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanPipelineCollection.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanDescriptorSetOrginizer.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanDescriptorSetOrginizer.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanDescriptorSetOrginizer.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/VulkanCamera.cpp.o -c /home/ami/Code/HurricaneEngine3D/renderer/VulkanCamera.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/renderer/VulkanCamera.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/cc -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -o CMakeFiles/renderer.dir/__/extern/volk/volk.c.o -c /home/ami/Code/HurricaneEngine3D/extern/volk/volk.c",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/volk/volk.c"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/allocator.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/allocator.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/allocator.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/clusterizer.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/clusterizer.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/clusterizer.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/indexcodec.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/indexcodec.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/indexcodec.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/indexgenerator.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/indexgenerator.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/indexgenerator.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/overdrawanalyzer.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/overdrawanalyzer.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/overdrawanalyzer.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/overdrawoptimizer.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/overdrawoptimizer.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/overdrawoptimizer.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/simplifier.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/simplifier.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/simplifier.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/spatialorder.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/spatialorder.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/spatialorder.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/stripifier.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/stripifier.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/stripifier.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/vcacheanalyzer.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vcacheanalyzer.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vcacheanalyzer.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/vcacheoptimizer.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vcacheoptimizer.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vcacheoptimizer.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/vertexcodec.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vertexcodec.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vertexcodec.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/vertexfilter.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vertexfilter.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vertexfilter.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/vfetchanalyzer.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vfetchanalyzer.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vfetchanalyzer.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/renderer",
+  "command": "/usr/bin/c++ -DLINUX -DVK_USE_PLATFORM_XCB_KHR -Drenderer_EXPORTS -I/home/ami/Code/HurricaneEngine3D/renderer -I/home/ami/Code/HurricaneEngine3D/renderer/../include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/volk -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glfw/include -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/meshoptimizer/src -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/glm -I/home/ami/Code/HurricaneEngine3D/renderer/../extern/stb -isystem /usr/local/include -fPIC -std=gnu++17 -o CMakeFiles/renderer.dir/__/extern/meshoptimizer/src/vfetchoptimizer.cpp.o -c /home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vfetchoptimizer.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/extern/meshoptimizer/src/vfetchoptimizer.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/launcher",
+  "command": "/usr/bin/c++ -DLINUX -I/home/ami/Code/HurricaneEngine3D/launcher -I/home/ami/Code/HurricaneEngine3D/launcher/../include -I/home/ami/Code/HurricaneEngine3D/launcher/../renderer -isystem /usr/local/include -std=gnu++17 -o CMakeFiles/Launcher.dir/main.cpp.o -c /home/ami/Code/HurricaneEngine3D/launcher/main.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/launcher/main.cpp"
+},
+{
+  "directory": "/home/ami/Code/HurricaneEngine3D/launcher",
+  "command": "/usr/bin/c++ -DLINUX -I/home/ami/Code/HurricaneEngine3D/launcher -I/home/ami/Code/HurricaneEngine3D/launcher/../include -I/home/ami/Code/HurricaneEngine3D/launcher/../renderer -isystem /usr/local/include -std=gnu++17 -o CMakeFiles/Launcher.dir/Engine.cpp.o -c /home/ami/Code/HurricaneEngine3D/launcher/Engine.cpp",
+  "file": "/home/ami/Code/HurricaneEngine3D/launcher/Engine.cpp"
+}
+]
